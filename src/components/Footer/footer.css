@@ -1,0 +1,50 @@
+.container {
+    margin-top:20px;
+    /* border: 20px solid #009688; */
+}
+
+.row {
+    margin: 25px;
+
+}
+.p {
+    font-family: 'IM Fell English', serif;
+}
+
+.h1, .h2, .h3, .h4, .h6, h1, h2, h3, h4, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #516e9c;
+    font-family: 'IM Fell English', serif;
+} 
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: -26px;
+    width: 100%;
+    color: white;
+    text-align: left; 
+    margin-bottom:0px !important;
+}
+.footer a {
+    color: white;
+}
+
+.card-footer {
+    text-align:center;
+}
+
+.fab {  
+    float: right;
+    font-size: large;
+    /* text-indent:-60px; */
+     padding-right: 4px; 
+    color: white;
+}
+
+
+
+
+   

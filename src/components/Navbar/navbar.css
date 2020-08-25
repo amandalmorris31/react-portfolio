@@ -1,0 +1,64 @@
+.navbar {
+    border-width:5px;  
+    border-bottom-style:double;
+}
+
+.navbar-light .navbar-brand {
+    color: darkslategrey;
+    padding: 25px 20px 0px 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2.5rem;
+    font-family: 'Jomolhari', serif;
+    /* font-family: 'IM Fell English', serif; */
+}
+
+.nav-link {
+    padding: 25px 20px 0px 20px;
+}
+
+.p {
+    font-family: 'IM Fell English', serif;
+}
+
+.h1, .h2, .h3, .h4, .h6, h1, h2, h3, h4, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #516e9c;
+    font-family: 'IM Fell English', serif;
+} 
+
+.navbar {
+    background-color: #cddefa;
+}
+    
+.navbar-expand-lg .navbar-collapse {
+    float: right;
+
+}
+
+.navbar-nav .nav-link {
+    float: right;
+    font-family: 'IM Fell English', serif;
+    font-size: 24px;
+}
+
+.btn-primary {
+    background-color: #516e9c;
+}
+
+.fab {
+    
+    float: right;
+    font-size: large;
+    /* text-indent:-60px; */
+     padding-right: 4px; 
+    color: white;
+}
+
+
+
+
+
+   
