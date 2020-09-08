@@ -2,6 +2,26 @@
     padding: 25px;  
     background-color: lightgrey!important;
 }
+.repo-btn{
+    background-color:teal !important;
+}
+
+/* Container holding the image and the text */
+.repo-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    background-color:teal;
+  
+    max-width:100%;
+  }
 
 .jumbotron {
     height:90vh;
@@ -12,7 +32,6 @@
     margin-top:20px;
     /* border: 20px solid #009688; */
 }
-
 
 .main {
     padding: 25px;
@@ -63,7 +82,6 @@ div.card {
     border:0 !important;
 }
 
-
 .btn-primary {
     background-color: #516e9c;
 }
@@ -90,16 +108,12 @@ div.card {
     color: white;
 }
 
-
-
 /* 
 .navbar-light .navbar-nav .nav-link {
     color: rgba(0,0,0,.5);
     margin-right: 25px;
 
 } */
-
-
 
 /*will need to adj down the portfolio images*/
 
@@ -112,7 +126,6 @@ div.card {
     position:absolute !important;
     bottom:8px !important;
     right:16px !important;
-
 
 }
 
