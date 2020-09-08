@@ -1,4 +1,4 @@
-This is the react.js version of Amanda Morris's portfolio.
+This is the react.js version of Amanda Morris's professional portfolio.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
